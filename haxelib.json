@@ -1,0 +1,16 @@
+{
+  "name": "webpack-lite",
+  "description": "TODO",
+  "version": "0.1.0",
+  "releasenote": "TODO",
+  "url": "https://github.com/kLabz/haxe-webpack-lite",
+  "license": "MIT",
+  "tags": [
+    "webpack"
+  ],
+  "classPath": "src",
+  "contributors": [
+    "klabz"
+  ]
+}
+
